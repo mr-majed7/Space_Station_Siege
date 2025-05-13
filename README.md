@@ -19,13 +19,18 @@ Diverse Enemy Types
 
 
 
-• Scout Drones: fast, low-health movers
+• Scouts: fast, low-health movers
 
 
-• Tank Drones: slow, high-health brutes
+• Tanks: slow, high-health brutes
 
 
-• Sniper Drones: stationary shooters with ranged attacks
+• Snipers: stationary shooters with ranged attacks
+
+
+• Suicide Drones: Fastest, low health movers 
+
+
 
 
 
@@ -35,6 +40,8 @@ Player Mechanics
 
 
 3D primitive-modeled marine with health/ammo, “R” repair action (5 s hold), and W/A/S/D + mouse for movement, aiming, and shooting.
+
+(Bonus feature - 360 degree shootout in both first person and third person view)
 
 
 
@@ -54,7 +61,3 @@ Camera Modes & UI
 
 Toggleable 1st-/3rd-person view; on-screen HUD shows health, ammo, current sector, and remaining objectives.
 
-
-
-
-Comment by faculty :  Try to add more functionalities to the player.
